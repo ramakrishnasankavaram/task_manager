@@ -26,8 +26,14 @@ A professional, full-stack web application for managing tasks efficiently. Built
 ### Tasks Management
 ![Tasks Screenshot](screenshots/tasks.png)
 
+### Register Page
+![Login Screenshot](screenshots/register.png)
+
 ### Login Page
 ![Login Screenshot](screenshots/login.png)
+
+### Profile Page
+![Login Screenshot](screenshots/profile.png)
 
 ## 🛠️ Technologies Used
 
